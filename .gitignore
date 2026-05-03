@@ -1,0 +1,16 @@
+.curso-cache/
+.playwright-mcp/
+.claude/playwright-output/
+.claude/playwright-profile/
+*.json
+!.mcp.json
+
+# Archivos de trabajo / contexto (no parte del entregable)
+CLAUDE.md
+PLAN.md
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
